@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="main_view_button_title">Load Random Image</string>
+    <string name="test_tag_main_view_button">test_tag_main_view_button</string>
+    <string name="test_tag_main_view_image">test_tag_main_view_image</string>
+    <string name="test_tag_main_view_progress">test_tag_main_view_progress</string>
+    <string name="test_tag_main_view_error_text">test_tag_main_view_error_text</string>
+</resources>
